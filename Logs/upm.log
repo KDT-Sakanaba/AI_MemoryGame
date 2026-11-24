@@ -1,0 +1,257 @@
+[2026-11-24T08:22:48.449Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.6.4f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 25464 --ipc-path Unity-Upm-25464 -l 2 --log-file C\:/Users/koyo/Desktop/he/MemoryGame/Logs/upm.log
+[2026-11-24T08:22:48.494Z][INFO] IPC server started (IPC path=Unity-Upm-25464).
+[2026-11-24T08:22:48.494Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-25464.
+[2026-11-24T08:22:49.701Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-24T08:22:49.774Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-24T08:22:49.783Z][INFO] config:project:get-registries --> 200 (9 ms)
+[2026-11-24T08:22:49.792Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-24T08:22:49.793Z][WARN] Package [com.akiojin.unity-cli-bridge] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-24T08:22:49.800Z][INFO] project:list-packages --> 200 (99 ms)
+[2026-11-24T08:22:49.841Z][WARN] Package [com.akiojin.unity-cli-bridge] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-24T08:22:49.844Z][INFO] project:list-packages --> 200 (52 ms)
+[2026-11-24T08:22:51.734Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-24T08:22:51.776Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-24T08:22:51.796Z][WARN] Package [com.akiojin.unity-cli-bridge] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-24T08:22:51.800Z][INFO] project:list-packages --> 200 (66 ms)
+[2026-11-24T08:22:51.829Z][WARN] Package [com.akiojin.unity-cli-bridge] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-24T08:22:51.832Z][INFO] project:list-packages --> 200 (56 ms)
+[2026-11-24T08:22:51.978Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-24T08:22:51.982Z][INFO] config:project:get-registries --> 200 (4 ms)
+[2026-11-24T08:22:52.988Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-24T08:22:53.039Z][WARN] Package [com.akiojin.unity-cli-bridge] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-24T08:22:53.042Z][INFO] project:list-packages --> 200 (54 ms)
+[2026-11-24T08:22:54.503Z][INFO] packages:get-all-packageinfo <-- Request received
+params: {}
+[2026-11-24T08:22:54.523Z][INFO] packages:get-all-packageinfo <-- Request received
+params: {}
+[2026-11-24T08:22:57.143Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-24T08:22:57.909Z][WARN] Package [com.akiojin.unity-cli-bridge] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-24T08:22:57.937Z][INFO] project:list-packages --> 200 (794 ms)
+[2026-11-24T08:22:59.878Z][INFO] packages:get-all-packageinfo --> 200 (5355 ms)
+[2026-11-24T08:23:00.098Z][INFO] packages:get-all-packageinfo --> 200 (5595 ms)
+[2026-11-24T08:23:00.693Z][INFO] packages:get-all-packageinfo <-- Request received
+params: {}
+[2026-11-24T08:23:00.717Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-24T08:23:00.768Z][WARN] Package [com.akiojin.unity-cli-bridge] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-24T08:23:00.770Z][INFO] project:list-packages --> 200 (53 ms)
+[2026-11-24T08:23:00.977Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-24T08:23:00.980Z][INFO] config:project:get-registries --> 200 (3 ms)
+[2026-11-24T08:23:02.625Z][INFO] packages:get-all-packageinfo --> 200 (1932 ms)
+[2026-11-24T08:23:02.922Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.addressables@2.11.2"
+}
+[2026-11-24T08:23:02.936Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.ads.ios-support@1.0.1"
+}
+[2026-11-24T08:23:02.952Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.collab-proxy@2.13.6"
+}
+[2026-11-24T08:23:02.964Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.formats.alembic@2.4.7"
+}
+[2026-11-24T08:23:02.975Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.memoryprofiler@1.1.12"
+}
+[2026-11-24T08:23:02.978Z][INFO] packages:get-packageinfo --> 200 (56 ms)
+[2026-11-24T08:23:02.985Z][INFO] packages:get-packageinfo --> 200 (49 ms)
+[2026-11-24T08:23:02.989Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.mobile.android-logcat@1.4.7"
+}
+[2026-11-24T08:23:02.999Z][INFO] packages:get-packageinfo --> 200 (47 ms)
+[2026-11-24T08:23:02.999Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.performance.profile-analyzer@1.4.2"
+}
+[2026-11-24T08:23:03.012Z][INFO] packages:get-packageinfo --> 200 (48 ms)
+[2026-11-24T08:23:03.014Z][INFO] packages:get-packageinfo --> 200 (39 ms)
+[2026-11-24T08:23:03.014Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.polyspatial.extensions@3.2.2"
+}
+[2026-11-24T08:23:03.023Z][INFO] packages:get-packageinfo --> 200 (34 ms)
+[2026-11-24T08:23:03.025Z][INFO] packages:get-packageinfo --> 200 (26 ms)
+[2026-11-24T08:23:03.027Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.polyspatial.visionos@3.2.2"
+}
+[2026-11-24T08:23:03.035Z][INFO] packages:get-packageinfo --> 200 (21 ms)
+[2026-11-24T08:23:03.037Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.project-auditor-rules@1.0.3"
+}
+[2026-11-24T08:23:03.047Z][INFO] packages:get-packageinfo --> 200 (20 ms)
+[2026-11-24T08:23:03.049Z][INFO] packages:get-packageinfo --> 200 (12 ms)
+[2026-11-24T08:23:03.051Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.scriptablebuildpipeline@3.0.3"
+}
+[2026-11-24T08:23:03.063Z][INFO] packages:get-packageinfo --> 200 (12 ms)
+[2026-11-24T08:23:03.065Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.services.friends@1.1.1"
+}
+[2026-11-24T08:23:03.075Z][INFO] packages:get-packageinfo --> 200 (10 ms)
+[2026-11-24T08:23:03.080Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.services.moderation@1.0.2"
+}
+[2026-11-24T08:23:03.089Z][INFO] packages:get-packageinfo --> 200 (9 ms)
+[2026-11-24T08:23:03.094Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.services.multiplayer@2.3.3"
+}
+[2026-11-24T08:23:03.105Z][INFO] packages:get-packageinfo --> 200 (11 ms)
+[2026-11-24T08:23:03.105Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.web.stripping-tool@1.3.0"
+}
+[2026-11-24T08:23:03.115Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.androidxr-openxr@1.4.2"
+}
+[2026-11-24T08:23:03.120Z][INFO] packages:get-packageinfo --> 200 (15 ms)
+[2026-11-24T08:23:03.126Z][INFO] packages:get-packageinfo --> 200 (12 ms)
+[2026-11-24T08:23:03.129Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.arcore@6.6.2"
+}
+[2026-11-24T08:23:03.144Z][INFO] packages:get-packageinfo --> 200 (15 ms)
+[2026-11-24T08:23:03.144Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.arfoundation@6.6.2"
+}
+[2026-11-24T08:23:03.158Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.arkit@6.6.2"
+}
+[2026-11-24T08:23:03.170Z][INFO] packages:get-packageinfo --> 200 (26 ms)
+[2026-11-24T08:23:03.172Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.hands@1.9.0"
+}
+[2026-11-24T08:23:03.183Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.interaction.toolkit@3.6.1"
+}
+[2026-11-24T08:23:03.192Z][INFO] packages:get-packageinfo --> 200 (34 ms)
+[2026-11-24T08:23:03.197Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.openxr@1.18.0"
+}
+[2026-11-24T08:23:03.201Z][INFO] packages:get-packageinfo --> 200 (29 ms)
+[2026-11-24T08:23:03.211Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.visionos@3.2.2"
+}
+[2026-11-24T08:23:03.219Z][INFO] packages:get-packageinfo --> 200 (36 ms)
+[2026-11-24T08:23:03.225Z][INFO] packages:get-packageinfo --> 200 (28 ms)
+[2026-11-24T08:23:03.228Z][INFO] packages:get-packageinfo --> 200 (17 ms)
+[2026-11-24T08:24:26.652Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-24T08:24:26.716Z][WARN] Package [com.akiojin.unity-cli-bridge] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-24T08:24:26.719Z][INFO] project:list-packages --> 200 (67 ms)
+[2026-11-24T08:24:26.979Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-24T08:24:26.983Z][INFO] config:project:get-registries --> 200 (4 ms)
+[2026-11-24T08:28:02.553Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-24T08:28:02.617Z][WARN] Package [com.akiojin.unity-cli-bridge] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-24T08:28:02.619Z][INFO] project:list-packages --> 200 (66 ms)
+[2026-11-24T08:28:02.908Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-24T08:28:02.914Z][INFO] config:project:get-registries --> 200 (6 ms)
+[2026-11-24T08:28:34.667Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-24T08:28:34.709Z][WARN] Package [com.akiojin.unity-cli-bridge] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-24T08:28:34.711Z][INFO] project:list-packages --> 200 (44 ms)
+[2026-11-24T08:28:34.940Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-24T08:28:34.944Z][INFO] config:project:get-registries --> 200 (4 ms)
+[2026-11-24T08:35:46.916Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-24T08:35:46.961Z][WARN] Package [com.akiojin.unity-cli-bridge] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-24T08:35:46.963Z][INFO] project:list-packages --> 200 (47 ms)
+[2026-11-24T08:35:47.166Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-24T08:35:47.170Z][INFO] config:project:get-registries --> 200 (4 ms)
+[2026-11-24T08:36:53.131Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-24T08:36:53.177Z][WARN] Package [com.akiojin.unity-cli-bridge] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-24T08:36:53.178Z][INFO] project:list-packages --> 200 (47 ms)
+[2026-11-24T08:36:53.354Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-24T08:36:53.358Z][INFO] config:project:get-registries --> 200 (4 ms)
+[2026-11-24T08:51:42.600Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-24T08:51:42.642Z][WARN] Package [com.akiojin.unity-cli-bridge] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-24T08:51:42.643Z][INFO] project:list-packages --> 200 (43 ms)
+[2026-11-24T08:51:42.811Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-24T08:51:42.814Z][INFO] config:project:get-registries --> 200 (4 ms)
+[2026-11-24T09:13:25.654Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-24T09:13:25.698Z][WARN] Package [com.akiojin.unity-cli-bridge] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-24T09:13:25.698Z][INFO] project:list-packages --> 200 (44 ms)
+[2026-11-24T09:13:25.859Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-24T09:13:25.863Z][INFO] config:project:get-registries --> 200 (4 ms)
+[2026-11-24T09:34:05.119Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-24T09:34:05.163Z][WARN] Package [com.akiojin.unity-cli-bridge] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-24T09:34:05.164Z][INFO] project:list-packages --> 200 (45 ms)
+[2026-11-24T09:34:05.317Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-24T09:34:05.322Z][INFO] config:project:get-registries --> 200 (5 ms)
+[2026-11-24T09:34:26.783Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-24T09:34:26.828Z][WARN] Package [com.akiojin.unity-cli-bridge] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-24T09:34:26.829Z][INFO] project:list-packages --> 200 (46 ms)
+[2026-11-24T09:34:27.003Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-24T09:34:27.006Z][INFO] config:project:get-registries --> 200 (3 ms)
+[2026-11-24T09:50:18.517Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-24T09:50:18.818Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-24T09:50:19.651Z][WARN] Package [com.akiojin.unity-cli-bridge] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-24T09:50:19.652Z][WARN] Package [com.akiojin.unity-cli-bridge] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-24T09:50:19.655Z][INFO] project:list-packages --> 200 (1137 ms)
+[2026-11-24T09:50:19.655Z][INFO] project:list-packages --> 200 (837 ms)
+[2026-11-24T09:50:21.318Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-24T09:50:21.374Z][WARN] Package [com.akiojin.unity-cli-bridge] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-24T09:50:21.375Z][INFO] project:list-packages --> 200 (57 ms)
+[2026-11-24T09:50:21.823Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-24T09:50:21.874Z][WARN] Package [com.akiojin.unity-cli-bridge] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-24T09:50:21.879Z][INFO] project:list-packages --> 200 (57 ms)
+[2026-11-24T10:21:47.475Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-24T10:21:47.523Z][WARN] Package [com.akiojin.unity-cli-bridge] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-24T10:21:47.525Z][INFO] project:list-packages --> 200 (50 ms)
+[2026-11-24T10:21:47.683Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-24T10:21:47.687Z][INFO] config:project:get-registries --> 200 (4 ms)
+[2026-11-24T10:23:12.537Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-24T10:23:12.579Z][WARN] Package [com.akiojin.unity-cli-bridge] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-24T10:23:12.580Z][INFO] project:list-packages --> 200 (43 ms)
+[2026-11-24T10:23:12.753Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-24T10:23:12.757Z][INFO] config:project:get-registries --> 200 (4 ms)

@@ -1,0 +1,1116 @@
+{
+  "editorSessionId": "cc020836-14cd-4d54-8917-e3eb4a783135",
+  "runId": "fb7e4251-ed29-462f-9174-071ec65c9a26",
+  "testMode": "EditMode",
+  "status": "completed",
+  "runStartedAt": "2026-11-24T08:36:11.4718412Z",
+  "lastUpdate": "2026-11-24T08:36:13.2824591Z",
+  "code": null,
+  "exportPath": "C:\\Users\\koyo\\Desktop\\he\\MemoryGame\\.unity\\test-results\\TestResults_EditMode_20261124_083611.json",
+  "includeDetails": true,
+  "completedResult": {
+    "status": "completed",
+    "success": true,
+    "totalTests": 63,
+    "passedTests": 63,
+    "failedTests": 0,
+    "skippedTests": 0,
+    "inconclusiveTests": 0,
+    "runId": "fb7e4251-ed29-462f-9174-071ec65c9a26",
+    "testMode": "EditMode",
+    "failures": [],
+    "tests": [
+      {
+        "name": "Deck_Has48Cards_24Pairs_AllFaceDown",
+        "fullName": "MemoryGame.GameLogic.Tests.DeckTests.Deck_Has48Cards_24Pairs_AllFaceDown",
+        "status": "Passed",
+        "duration": 0.0101812,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: MemoryGame.GameLogic.Tests.DeckTests.Deck_Has48Cards_24Pairs_AllFaceDown\r\n"
+      },
+      {
+        "name": "Shuffle_AssignsUniqueGridPositions",
+        "fullName": "MemoryGame.GameLogic.Tests.DeckTests.Shuffle_AssignsUniqueGridPositions",
+        "status": "Passed",
+        "duration": 0.0003486,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: MemoryGame.GameLogic.Tests.DeckTests.Shuffle_AssignsUniqueGridPositions\r\n"
+      },
+      {
+        "name": "AllPairsMatch_Cleared",
+        "fullName": "MemoryGame.GameLogic.Tests.GameRulesTests.AllPairsMatch_Cleared",
+        "status": "Passed",
+        "duration": 0.001725,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: MemoryGame.GameLogic.Tests.GameRulesTests.AllPairsMatch_Cleared\r\n"
+      },
+      {
+        "name": "Flip_FirstThenMatch_BothStayFaceUp",
+        "fullName": "MemoryGame.GameLogic.Tests.GameRulesTests.Flip_FirstThenMatch_BothStayFaceUp",
+        "status": "Passed",
+        "duration": 0.0003086,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: MemoryGame.GameLogic.Tests.GameRulesTests.Flip_FirstThenMatch_BothStayFaceUp\r\n"
+      },
+      {
+        "name": "MatchedCard_IgnoresFlip",
+        "fullName": "MemoryGame.GameLogic.Tests.GameRulesTests.MatchedCard_IgnoresFlip",
+        "status": "Passed",
+        "duration": 0.0002339,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: MemoryGame.GameLogic.Tests.GameRulesTests.MatchedCard_IgnoresFlip\r\n"
+      },
+      {
+        "name": "Mismatch_ReturnsFaceDownAfterAboutOneSecond",
+        "fullName": "MemoryGame.GameLogic.Tests.GameRulesTests.Mismatch_ReturnsFaceDownAfterAboutOneSecond",
+        "status": "Passed",
+        "duration": 0.000318,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: MemoryGame.GameLogic.Tests.GameRulesTests.Mismatch_ReturnsFaceDownAfterAboutOneSecond\r\n"
+      },
+      {
+        "name": "Replay_ResetsStateAndShuffles",
+        "fullName": "MemoryGame.GameLogic.Tests.GameRulesTests.Replay_ResetsStateAndShuffles",
+        "status": "Passed",
+        "duration": 0.0010594,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: MemoryGame.GameLogic.Tests.GameRulesTests.Replay_ResetsStateAndShuffles\r\n"
+      },
+      {
+        "name": "SameCardTwice_NotTreatedAsSecondCard",
+        "fullName": "MemoryGame.GameLogic.Tests.GameRulesTests.SameCardTwice_NotTreatedAsSecondCard",
+        "status": "Passed",
+        "duration": 0.0001332,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: MemoryGame.GameLogic.Tests.GameRulesTests.SameCardTwice_NotTreatedAsSecondCard\r\n"
+      },
+      {
+        "name": "ThirdFlipWhilePending_Ignored",
+        "fullName": "MemoryGame.GameLogic.Tests.GameRulesTests.ThirdFlipWhilePending_Ignored",
+        "status": "Passed",
+        "duration": 0.0002781,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: MemoryGame.GameLogic.Tests.GameRulesTests.ThirdFlipWhilePending_Ignored\r\n"
+      },
+      {
+        "name": "GetAnimatorRuntimeInfo_NotInPlayMode_ReturnsError",
+        "fullName": "UnityCliBridge.Tests.AnimatorStateHandlerTests.GetAnimatorRuntimeInfo_NotInPlayMode_ReturnsError",
+        "status": "Passed",
+        "duration": 0.0067903,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.AnimatorStateHandlerTests.GetAnimatorRuntimeInfo_NotInPlayMode_ReturnsError\r\n"
+      },
+      {
+        "name": "GetAnimatorState_WithInvalidGameObject_ReturnsError",
+        "fullName": "UnityCliBridge.Tests.AnimatorStateHandlerTests.GetAnimatorState_WithInvalidGameObject_ReturnsError",
+        "status": "Passed",
+        "duration": 0.0017755,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.AnimatorStateHandlerTests.GetAnimatorState_WithInvalidGameObject_ReturnsError\r\n"
+      },
+      {
+        "name": "GetAnimatorState_WithoutAnimatorComponent_ReturnsError",
+        "fullName": "UnityCliBridge.Tests.AnimatorStateHandlerTests.GetAnimatorState_WithoutAnimatorComponent_ReturnsError",
+        "status": "Passed",
+        "duration": 0.0003155,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.AnimatorStateHandlerTests.GetAnimatorState_WithoutAnimatorComponent_ReturnsError\r\n"
+      },
+      {
+        "name": "GetAnimatorState_WithoutGameObjectName_ReturnsError",
+        "fullName": "UnityCliBridge.Tests.AnimatorStateHandlerTests.GetAnimatorState_WithoutGameObjectName_ReturnsError",
+        "status": "Passed",
+        "duration": 0.0002395,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.AnimatorStateHandlerTests.GetAnimatorState_WithoutGameObjectName_ReturnsError\r\n"
+      },
+      {
+        "name": "GetAnimatorState_WithValidGameObject_ReturnsSuccess",
+        "fullName": "UnityCliBridge.Tests.AnimatorStateHandlerTests.GetAnimatorState_WithValidGameObject_ReturnsSuccess",
+        "status": "Passed",
+        "duration": 0.0018348,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.AnimatorStateHandlerTests.GetAnimatorState_WithValidGameObject_ReturnsSuccess\r\nAnimator is not playing an AnimatorController\r\n"
+      },
+      {
+        "name": "AddComponent_DuplicateUniqueComponent_ShouldFail",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.AddComponent_DuplicateUniqueComponent_ShouldFail",
+        "status": "Passed",
+        "duration": 0.0019169,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.AddComponent_DuplicateUniqueComponent_ShouldFail\r\n"
+      },
+      {
+        "name": "AddComponent_ToNonExistentGameObject_ShouldFail",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.AddComponent_ToNonExistentGameObject_ShouldFail",
+        "status": "Passed",
+        "duration": 0.0002679,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.AddComponent_ToNonExistentGameObject_ShouldFail\r\n"
+      },
+      {
+        "name": "AddComponent_WithInvalidType_ShouldFail",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.AddComponent_WithInvalidType_ShouldFail",
+        "status": "Passed",
+        "duration": 0.313278,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.AddComponent_WithInvalidType_ShouldFail\r\n"
+      },
+      {
+        "name": "AddComponent_WithValidType_ShouldSucceed",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.AddComponent_WithValidType_ShouldSucceed",
+        "status": "Passed",
+        "duration": 0.0083577,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.AddComponent_WithValidType_ShouldSucceed\r\n"
+      },
+      {
+        "name": "ConvertValue_SimpleTypes_ShouldConvert",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.ConvertValue_SimpleTypes_ShouldConvert",
+        "status": "Passed",
+        "duration": 0.0014023,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.ConvertValue_SimpleTypes_ShouldConvert\r\n"
+      },
+      {
+        "name": "ConvertValue_UnityTypes_ShouldConvert",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.ConvertValue_UnityTypes_ShouldConvert",
+        "status": "Passed",
+        "duration": 0.0005783,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.ConvertValue_UnityTypes_ShouldConvert\r\n"
+      },
+      {
+        "name": "ListComponents_ShouldReturnAllComponents",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.ListComponents_ShouldReturnAllComponents",
+        "status": "Passed",
+        "duration": 0.0030579,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.ListComponents_ShouldReturnAllComponents\r\n"
+      },
+      {
+        "name": "ListComponents_WithProperties_ShouldIncludeValues",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.ListComponents_WithProperties_ShouldIncludeValues",
+        "status": "Passed",
+        "duration": 0.0035301,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.ListComponents_WithProperties_ShouldIncludeValues\r\n"
+      },
+      {
+        "name": "ModifyComponent_InvalidPropertyType_ShouldFail",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.ModifyComponent_InvalidPropertyType_ShouldFail",
+        "status": "Passed",
+        "duration": 0.0016136,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.ModifyComponent_InvalidPropertyType_ShouldFail\r\n[unity-cli-bridge][ComponentHandler] Failed to set property mass: Input string was not in a correct format.\r\n"
+      },
+      {
+        "name": "ModifyComponent_NonExistentProperty_ShouldFail",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.ModifyComponent_NonExistentProperty_ShouldFail",
+        "status": "Passed",
+        "duration": 0.0003274,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.ModifyComponent_NonExistentProperty_ShouldFail\r\n"
+      },
+      {
+        "name": "ModifyComponent_ValidProperties_ShouldSucceed",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.ModifyComponent_ValidProperties_ShouldSucceed",
+        "status": "Passed",
+        "duration": 0.0023233,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.ModifyComponent_ValidProperties_ShouldSucceed\r\n"
+      },
+      {
+        "name": "RemoveComponent_ExistingComponent_ShouldSucceed",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.RemoveComponent_ExistingComponent_ShouldSucceed",
+        "status": "Passed",
+        "duration": 0.0024661,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.RemoveComponent_ExistingComponent_ShouldSucceed\r\n"
+      },
+      {
+        "name": "RemoveComponent_NonExistentComponent_ShouldReturnFalse",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.RemoveComponent_NonExistentComponent_ShouldReturnFalse",
+        "status": "Passed",
+        "duration": 0.0012871,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.RemoveComponent_NonExistentComponent_ShouldReturnFalse\r\n"
+      },
+      {
+        "name": "RemoveComponent_Transform_ShouldFail",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.RemoveComponent_Transform_ShouldFail",
+        "status": "Passed",
+        "duration": 0.0003011,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.RemoveComponent_Transform_ShouldFail\r\n"
+      },
+      {
+        "name": "RemoveComponent_WithIndex_ShouldRemoveSpecificInstance",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.RemoveComponent_WithIndex_ShouldRemoveSpecificInstance",
+        "status": "Passed",
+        "duration": 0.000894,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.RemoveComponent_WithIndex_ShouldRemoveSpecificInstance\r\n"
+      },
+      {
+        "name": "ResolveComponentType_FullName_ShouldResolve",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.ResolveComponentType_FullName_ShouldResolve",
+        "status": "Passed",
+        "duration": 0.0032855,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.ResolveComponentType_FullName_ShouldResolve\r\n"
+      },
+      {
+        "name": "ResolveComponentType_ShortName_ShouldResolve",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.ResolveComponentType_ShortName_ShouldResolve",
+        "status": "Passed",
+        "duration": 0.0001764,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.ResolveComponentType_ShortName_ShouldResolve\r\n"
+      },
+      {
+        "name": "EditorState_ShouldReturnBooleanValues",
+        "fullName": "UnityCliBridge.Tests.Helpers.EditorStateResponseTests.EditorState_ShouldReturnBooleanValues",
+        "status": "Passed",
+        "duration": 0.0010003,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.Helpers.EditorStateResponseTests.EditorState_ShouldReturnBooleanValues\r\n"
+      },
+      {
+        "name": "SuccessResult_ShouldIncludeEditorState",
+        "fullName": "UnityCliBridge.Tests.Helpers.EditorStateResponseTests.SuccessResult_ShouldIncludeEditorState",
+        "status": "Passed",
+        "duration": 0.0002813,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.Helpers.EditorStateResponseTests.SuccessResult_ShouldIncludeEditorState\r\n"
+      },
+      {
+        "name": "SuccessResultWithId_ShouldIncludeEditorState",
+        "fullName": "UnityCliBridge.Tests.Helpers.EditorStateResponseTests.SuccessResultWithId_ShouldIncludeEditorState",
+        "status": "Passed",
+        "duration": 0.0001908,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.Helpers.EditorStateResponseTests.SuccessResultWithId_ShouldIncludeEditorState\r\n"
+      },
+      {
+        "name": "CreateInputSequence_AppliesDelayAndProcessesScheduledRelease",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.CreateInputSequence_AppliesDelayAndProcessesScheduledRelease",
+        "status": "Passed",
+        "duration": 0.2135573,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.CreateInputSequence_AppliesDelayAndProcessesScheduledRelease\r\n[unity-cli-bridge][InputSystemHandler] Simulating key press: A (Keyboard)\r\n[unity-cli-bridge][InputSystemHandler] Simulating key release: A (Keyboard)\r\n"
+      },
+      {
+        "name": "CreateInputSequence_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.CreateInputSequence_Success",
+        "status": "Passed",
+        "duration": 0.1096886,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.CreateInputSequence_Success\r\n[unity-cli-bridge][InputSystemHandler] Simulating key press: W (Keyboard)\r\n"
+      },
+      {
+        "name": "GetCurrentInputState_FlushesScheduledReleases",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.GetCurrentInputState_FlushesScheduledReleases",
+        "status": "Passed",
+        "duration": 0.3020481,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.GetCurrentInputState_FlushesScheduledReleases\r\n"
+      },
+      {
+        "name": "GetCurrentInputState_ReflectsGamepadSimulation",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.GetCurrentInputState_ReflectsGamepadSimulation",
+        "status": "Passed",
+        "duration": 0.0039173,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.GetCurrentInputState_ReflectsGamepadSimulation\r\n"
+      },
+      {
+        "name": "GetCurrentInputState_ReflectsMouseSimulation",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.GetCurrentInputState_ReflectsMouseSimulation",
+        "status": "Passed",
+        "duration": 0.0017247,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.GetCurrentInputState_ReflectsMouseSimulation\r\n"
+      },
+      {
+        "name": "GetCurrentInputState_ReflectsTouchSimulation",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.GetCurrentInputState_ReflectsTouchSimulation",
+        "status": "Passed",
+        "duration": 0.0043742,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.GetCurrentInputState_ReflectsTouchSimulation\r\n"
+      },
+      {
+        "name": "GetCurrentInputState_ReflectsTypedKeyboardText",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.GetCurrentInputState_ReflectsTypedKeyboardText",
+        "status": "Passed",
+        "duration": 0.0021621,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.GetCurrentInputState_ReflectsTypedKeyboardText\r\n[unity-cli-bridge][InputSystemHandler] Simulating text input: \"Hi\" (Keyboard)\r\n"
+      },
+      {
+        "name": "GetCurrentInputState_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.GetCurrentInputState_Success",
+        "status": "Passed",
+        "duration": 0.0011668,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.GetCurrentInputState_Success\r\n"
+      },
+      {
+        "name": "SimulateGamepadInput_Button_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateGamepadInput_Button_Success",
+        "status": "Passed",
+        "duration": 0.0025296,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateGamepadInput_Button_Success\r\n"
+      },
+      {
+        "name": "SimulateGamepadInput_ButtonHoldSeconds_Releases",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateGamepadInput_ButtonHoldSeconds_Releases",
+        "status": "Passed",
+        "duration": 0.3020548,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateGamepadInput_ButtonHoldSeconds_Releases\r\n"
+      },
+      {
+        "name": "SimulateGamepadInput_DPad_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateGamepadInput_DPad_Success",
+        "status": "Passed",
+        "duration": 0.0032898,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateGamepadInput_DPad_Success\r\n"
+      },
+      {
+        "name": "SimulateGamepadInput_Stick_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateGamepadInput_Stick_Success",
+        "status": "Passed",
+        "duration": 0.0025331,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateGamepadInput_Stick_Success\r\n"
+      },
+      {
+        "name": "SimulateGamepadInput_Trigger_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateGamepadInput_Trigger_Success",
+        "status": "Passed",
+        "duration": 0.0023588,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateGamepadInput_Trigger_Success\r\n"
+      },
+      {
+        "name": "SimulateKeyboardInput_BatchedActions_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateKeyboardInput_BatchedActions_Success",
+        "status": "Passed",
+        "duration": 0.0034138,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateKeyboardInput_BatchedActions_Success\r\n[unity-cli-bridge][InputSystemHandler] Simulating key press: A (Keyboard)\r\n[unity-cli-bridge][InputSystemHandler] Simulating key press: D (Keyboard)\r\n[unity-cli-bridge][InputSystemHandler] Simulating key release: A (Keyboard)\r\n[unity-cli-bridge][InputSystemHandler] Simulating key release: D (Keyboard)\r\n"
+      },
+      {
+        "name": "SimulateKeyboardInput_InvalidAction_ReturnsError",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateKeyboardInput_InvalidAction_ReturnsError",
+        "status": "Passed",
+        "duration": 0.0012196,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateKeyboardInput_InvalidAction_ReturnsError\r\n"
+      },
+      {
+        "name": "SimulateKeyboardInput_KeyCombo_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateKeyboardInput_KeyCombo_Success",
+        "status": "Passed",
+        "duration": 0.0044083,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateKeyboardInput_KeyCombo_Success\r\n[unity-cli-bridge][InputSystemHandler] Simulating key combo: LeftCtrl+C (Keyboard)\r\n"
+      },
+      {
+        "name": "SimulateKeyboardInput_MissingKey_ReturnsError",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateKeyboardInput_MissingKey_ReturnsError",
+        "status": "Passed",
+        "duration": 0.0011731,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateKeyboardInput_MissingKey_ReturnsError\r\n"
+      },
+      {
+        "name": "SimulateKeyboardInput_PressKey_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateKeyboardInput_PressKey_Success",
+        "status": "Passed",
+        "duration": 0.0047343,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateKeyboardInput_PressKey_Success\r\n[unity-cli-bridge][InputSystemHandler] Simulating key press: A (Keyboard)\r\n"
+      },
+      {
+        "name": "SimulateKeyboardInput_ReleaseKey_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateKeyboardInput_ReleaseKey_Success",
+        "status": "Passed",
+        "duration": 0.0016773,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateKeyboardInput_ReleaseKey_Success\r\n[unity-cli-bridge][InputSystemHandler] Simulating key press: A (Keyboard)\r\n[unity-cli-bridge][InputSystemHandler] Simulating key release: A (Keyboard)\r\n"
+      },
+      {
+        "name": "SimulateKeyboardInput_TypeText_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateKeyboardInput_TypeText_Success",
+        "status": "Passed",
+        "duration": 0.0023998,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateKeyboardInput_TypeText_Success\r\n[unity-cli-bridge][InputSystemHandler] Simulating text input: \"Hello\" (Keyboard)\r\n"
+      },
+      {
+        "name": "SimulateMouseInput_ButtonAction_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateMouseInput_ButtonAction_Success",
+        "status": "Passed",
+        "duration": 0.0040264,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateMouseInput_ButtonAction_Success\r\n"
+      },
+      {
+        "name": "SimulateMouseInput_Click_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateMouseInput_Click_Success",
+        "status": "Passed",
+        "duration": 0.0066779,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateMouseInput_Click_Success\r\n"
+      },
+      {
+        "name": "SimulateMouseInput_Drag_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateMouseInput_Drag_Success",
+        "status": "Passed",
+        "duration": 0.0030248,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateMouseInput_Drag_Success\r\n"
+      },
+      {
+        "name": "SimulateMouseInput_InvalidButton_ReturnsError",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateMouseInput_InvalidButton_ReturnsError",
+        "status": "Passed",
+        "duration": 0.0011771,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateMouseInput_InvalidButton_ReturnsError\r\n"
+      },
+      {
+        "name": "SimulateMouseInput_Move_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateMouseInput_Move_Success",
+        "status": "Passed",
+        "duration": 0.0015229,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateMouseInput_Move_Success\r\n"
+      },
+      {
+        "name": "SimulateMouseInput_Scroll_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateMouseInput_Scroll_Success",
+        "status": "Passed",
+        "duration": 0.0021817,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateMouseInput_Scroll_Success\r\n"
+      },
+      {
+        "name": "SimulateTouchInput_Pinch_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateTouchInput_Pinch_Success",
+        "status": "Passed",
+        "duration": 0.003334,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateTouchInput_Pinch_Success\r\n"
+      },
+      {
+        "name": "SimulateTouchInput_Swipe_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateTouchInput_Swipe_Success",
+        "status": "Passed",
+        "duration": 0.0031497,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateTouchInput_Swipe_Success\r\n"
+      },
+      {
+        "name": "SimulateTouchInput_Tap_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateTouchInput_Tap_Success",
+        "status": "Passed",
+        "duration": 0.0025422,
+        "message": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateTouchInput_Tap_Success\r\n"
+      }
+    ]
+  },
+  "lastResultPath": "C:\\Users\\koyo\\Desktop\\he\\MemoryGame\\.unity\\test-results\\TestResults_EditMode_20261124_083611.json",
+  "lastResultSummary": {
+    "generatedAt": "2026-11-24T08:36:13.2784140Z",
+    "runStartedAt": "2026-11-24T08:36:11.7612739Z",
+    "durationSeconds": 1.4629408,
+    "testMode": "EditMode",
+    "totalTests": 63,
+    "passed": 63,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0,
+    "status": "passed",
+    "failures": [],
+    "tests": [
+      {
+        "name": "Deck_Has48Cards_24Pairs_AllFaceDown",
+        "fullName": "MemoryGame.GameLogic.Tests.DeckTests.Deck_Has48Cards_24Pairs_AllFaceDown",
+        "status": "Passed",
+        "duration": 0.0101812,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: MemoryGame.GameLogic.Tests.DeckTests.Deck_Has48Cards_24Pairs_AllFaceDown\r\n"
+      },
+      {
+        "name": "Shuffle_AssignsUniqueGridPositions",
+        "fullName": "MemoryGame.GameLogic.Tests.DeckTests.Shuffle_AssignsUniqueGridPositions",
+        "status": "Passed",
+        "duration": 0.0003486,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: MemoryGame.GameLogic.Tests.DeckTests.Shuffle_AssignsUniqueGridPositions\r\n"
+      },
+      {
+        "name": "AllPairsMatch_Cleared",
+        "fullName": "MemoryGame.GameLogic.Tests.GameRulesTests.AllPairsMatch_Cleared",
+        "status": "Passed",
+        "duration": 0.001725,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: MemoryGame.GameLogic.Tests.GameRulesTests.AllPairsMatch_Cleared\r\n"
+      },
+      {
+        "name": "Flip_FirstThenMatch_BothStayFaceUp",
+        "fullName": "MemoryGame.GameLogic.Tests.GameRulesTests.Flip_FirstThenMatch_BothStayFaceUp",
+        "status": "Passed",
+        "duration": 0.0003086,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: MemoryGame.GameLogic.Tests.GameRulesTests.Flip_FirstThenMatch_BothStayFaceUp\r\n"
+      },
+      {
+        "name": "MatchedCard_IgnoresFlip",
+        "fullName": "MemoryGame.GameLogic.Tests.GameRulesTests.MatchedCard_IgnoresFlip",
+        "status": "Passed",
+        "duration": 0.0002339,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: MemoryGame.GameLogic.Tests.GameRulesTests.MatchedCard_IgnoresFlip\r\n"
+      },
+      {
+        "name": "Mismatch_ReturnsFaceDownAfterAboutOneSecond",
+        "fullName": "MemoryGame.GameLogic.Tests.GameRulesTests.Mismatch_ReturnsFaceDownAfterAboutOneSecond",
+        "status": "Passed",
+        "duration": 0.000318,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: MemoryGame.GameLogic.Tests.GameRulesTests.Mismatch_ReturnsFaceDownAfterAboutOneSecond\r\n"
+      },
+      {
+        "name": "Replay_ResetsStateAndShuffles",
+        "fullName": "MemoryGame.GameLogic.Tests.GameRulesTests.Replay_ResetsStateAndShuffles",
+        "status": "Passed",
+        "duration": 0.0010594,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: MemoryGame.GameLogic.Tests.GameRulesTests.Replay_ResetsStateAndShuffles\r\n"
+      },
+      {
+        "name": "SameCardTwice_NotTreatedAsSecondCard",
+        "fullName": "MemoryGame.GameLogic.Tests.GameRulesTests.SameCardTwice_NotTreatedAsSecondCard",
+        "status": "Passed",
+        "duration": 0.0001332,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: MemoryGame.GameLogic.Tests.GameRulesTests.SameCardTwice_NotTreatedAsSecondCard\r\n"
+      },
+      {
+        "name": "ThirdFlipWhilePending_Ignored",
+        "fullName": "MemoryGame.GameLogic.Tests.GameRulesTests.ThirdFlipWhilePending_Ignored",
+        "status": "Passed",
+        "duration": 0.0002781,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: MemoryGame.GameLogic.Tests.GameRulesTests.ThirdFlipWhilePending_Ignored\r\n"
+      },
+      {
+        "name": "GetAnimatorRuntimeInfo_NotInPlayMode_ReturnsError",
+        "fullName": "UnityCliBridge.Tests.AnimatorStateHandlerTests.GetAnimatorRuntimeInfo_NotInPlayMode_ReturnsError",
+        "status": "Passed",
+        "duration": 0.0067903,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.AnimatorStateHandlerTests.GetAnimatorRuntimeInfo_NotInPlayMode_ReturnsError\r\n"
+      },
+      {
+        "name": "GetAnimatorState_WithInvalidGameObject_ReturnsError",
+        "fullName": "UnityCliBridge.Tests.AnimatorStateHandlerTests.GetAnimatorState_WithInvalidGameObject_ReturnsError",
+        "status": "Passed",
+        "duration": 0.0017755,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.AnimatorStateHandlerTests.GetAnimatorState_WithInvalidGameObject_ReturnsError\r\n"
+      },
+      {
+        "name": "GetAnimatorState_WithoutAnimatorComponent_ReturnsError",
+        "fullName": "UnityCliBridge.Tests.AnimatorStateHandlerTests.GetAnimatorState_WithoutAnimatorComponent_ReturnsError",
+        "status": "Passed",
+        "duration": 0.0003155,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.AnimatorStateHandlerTests.GetAnimatorState_WithoutAnimatorComponent_ReturnsError\r\n"
+      },
+      {
+        "name": "GetAnimatorState_WithoutGameObjectName_ReturnsError",
+        "fullName": "UnityCliBridge.Tests.AnimatorStateHandlerTests.GetAnimatorState_WithoutGameObjectName_ReturnsError",
+        "status": "Passed",
+        "duration": 0.0002395,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.AnimatorStateHandlerTests.GetAnimatorState_WithoutGameObjectName_ReturnsError\r\n"
+      },
+      {
+        "name": "GetAnimatorState_WithValidGameObject_ReturnsSuccess",
+        "fullName": "UnityCliBridge.Tests.AnimatorStateHandlerTests.GetAnimatorState_WithValidGameObject_ReturnsSuccess",
+        "status": "Passed",
+        "duration": 0.0018348,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.AnimatorStateHandlerTests.GetAnimatorState_WithValidGameObject_ReturnsSuccess\r\nAnimator is not playing an AnimatorController\r\n"
+      },
+      {
+        "name": "AddComponent_DuplicateUniqueComponent_ShouldFail",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.AddComponent_DuplicateUniqueComponent_ShouldFail",
+        "status": "Passed",
+        "duration": 0.0019169,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.AddComponent_DuplicateUniqueComponent_ShouldFail\r\n"
+      },
+      {
+        "name": "AddComponent_ToNonExistentGameObject_ShouldFail",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.AddComponent_ToNonExistentGameObject_ShouldFail",
+        "status": "Passed",
+        "duration": 0.0002679,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.AddComponent_ToNonExistentGameObject_ShouldFail\r\n"
+      },
+      {
+        "name": "AddComponent_WithInvalidType_ShouldFail",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.AddComponent_WithInvalidType_ShouldFail",
+        "status": "Passed",
+        "duration": 0.313278,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.AddComponent_WithInvalidType_ShouldFail\r\n"
+      },
+      {
+        "name": "AddComponent_WithValidType_ShouldSucceed",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.AddComponent_WithValidType_ShouldSucceed",
+        "status": "Passed",
+        "duration": 0.0083577,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.AddComponent_WithValidType_ShouldSucceed\r\n"
+      },
+      {
+        "name": "ConvertValue_SimpleTypes_ShouldConvert",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.ConvertValue_SimpleTypes_ShouldConvert",
+        "status": "Passed",
+        "duration": 0.0014023,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.ConvertValue_SimpleTypes_ShouldConvert\r\n"
+      },
+      {
+        "name": "ConvertValue_UnityTypes_ShouldConvert",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.ConvertValue_UnityTypes_ShouldConvert",
+        "status": "Passed",
+        "duration": 0.0005783,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.ConvertValue_UnityTypes_ShouldConvert\r\n"
+      },
+      {
+        "name": "ListComponents_ShouldReturnAllComponents",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.ListComponents_ShouldReturnAllComponents",
+        "status": "Passed",
+        "duration": 0.0030579,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.ListComponents_ShouldReturnAllComponents\r\n"
+      },
+      {
+        "name": "ListComponents_WithProperties_ShouldIncludeValues",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.ListComponents_WithProperties_ShouldIncludeValues",
+        "status": "Passed",
+        "duration": 0.0035301,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.ListComponents_WithProperties_ShouldIncludeValues\r\n"
+      },
+      {
+        "name": "ModifyComponent_InvalidPropertyType_ShouldFail",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.ModifyComponent_InvalidPropertyType_ShouldFail",
+        "status": "Passed",
+        "duration": 0.0016136,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.ModifyComponent_InvalidPropertyType_ShouldFail\r\n[unity-cli-bridge][ComponentHandler] Failed to set property mass: Input string was not in a correct format.\r\n"
+      },
+      {
+        "name": "ModifyComponent_NonExistentProperty_ShouldFail",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.ModifyComponent_NonExistentProperty_ShouldFail",
+        "status": "Passed",
+        "duration": 0.0003274,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.ModifyComponent_NonExistentProperty_ShouldFail\r\n"
+      },
+      {
+        "name": "ModifyComponent_ValidProperties_ShouldSucceed",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.ModifyComponent_ValidProperties_ShouldSucceed",
+        "status": "Passed",
+        "duration": 0.0023233,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.ModifyComponent_ValidProperties_ShouldSucceed\r\n"
+      },
+      {
+        "name": "RemoveComponent_ExistingComponent_ShouldSucceed",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.RemoveComponent_ExistingComponent_ShouldSucceed",
+        "status": "Passed",
+        "duration": 0.0024661,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.RemoveComponent_ExistingComponent_ShouldSucceed\r\n"
+      },
+      {
+        "name": "RemoveComponent_NonExistentComponent_ShouldReturnFalse",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.RemoveComponent_NonExistentComponent_ShouldReturnFalse",
+        "status": "Passed",
+        "duration": 0.0012871,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.RemoveComponent_NonExistentComponent_ShouldReturnFalse\r\n"
+      },
+      {
+        "name": "RemoveComponent_Transform_ShouldFail",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.RemoveComponent_Transform_ShouldFail",
+        "status": "Passed",
+        "duration": 0.0003011,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.RemoveComponent_Transform_ShouldFail\r\n"
+      },
+      {
+        "name": "RemoveComponent_WithIndex_ShouldRemoveSpecificInstance",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.RemoveComponent_WithIndex_ShouldRemoveSpecificInstance",
+        "status": "Passed",
+        "duration": 0.000894,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.RemoveComponent_WithIndex_ShouldRemoveSpecificInstance\r\n"
+      },
+      {
+        "name": "ResolveComponentType_FullName_ShouldResolve",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.ResolveComponentType_FullName_ShouldResolve",
+        "status": "Passed",
+        "duration": 0.0032855,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.ResolveComponentType_FullName_ShouldResolve\r\n"
+      },
+      {
+        "name": "ResolveComponentType_ShortName_ShouldResolve",
+        "fullName": "UnityCliBridge.Tests.ComponentHandlerTests.ResolveComponentType_ShortName_ShouldResolve",
+        "status": "Passed",
+        "duration": 0.0001764,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.ComponentHandlerTests.ResolveComponentType_ShortName_ShouldResolve\r\n"
+      },
+      {
+        "name": "EditorState_ShouldReturnBooleanValues",
+        "fullName": "UnityCliBridge.Tests.Helpers.EditorStateResponseTests.EditorState_ShouldReturnBooleanValues",
+        "status": "Passed",
+        "duration": 0.0010003,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.Helpers.EditorStateResponseTests.EditorState_ShouldReturnBooleanValues\r\n"
+      },
+      {
+        "name": "SuccessResult_ShouldIncludeEditorState",
+        "fullName": "UnityCliBridge.Tests.Helpers.EditorStateResponseTests.SuccessResult_ShouldIncludeEditorState",
+        "status": "Passed",
+        "duration": 0.0002813,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.Helpers.EditorStateResponseTests.SuccessResult_ShouldIncludeEditorState\r\n"
+      },
+      {
+        "name": "SuccessResultWithId_ShouldIncludeEditorState",
+        "fullName": "UnityCliBridge.Tests.Helpers.EditorStateResponseTests.SuccessResultWithId_ShouldIncludeEditorState",
+        "status": "Passed",
+        "duration": 0.0001908,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.Helpers.EditorStateResponseTests.SuccessResultWithId_ShouldIncludeEditorState\r\n"
+      },
+      {
+        "name": "CreateInputSequence_AppliesDelayAndProcessesScheduledRelease",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.CreateInputSequence_AppliesDelayAndProcessesScheduledRelease",
+        "status": "Passed",
+        "duration": 0.2135573,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.CreateInputSequence_AppliesDelayAndProcessesScheduledRelease\r\n[unity-cli-bridge][InputSystemHandler] Simulating key press: A (Keyboard)\r\n[unity-cli-bridge][InputSystemHandler] Simulating key release: A (Keyboard)\r\n"
+      },
+      {
+        "name": "CreateInputSequence_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.CreateInputSequence_Success",
+        "status": "Passed",
+        "duration": 0.1096886,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.CreateInputSequence_Success\r\n[unity-cli-bridge][InputSystemHandler] Simulating key press: W (Keyboard)\r\n"
+      },
+      {
+        "name": "GetCurrentInputState_FlushesScheduledReleases",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.GetCurrentInputState_FlushesScheduledReleases",
+        "status": "Passed",
+        "duration": 0.3020481,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.GetCurrentInputState_FlushesScheduledReleases\r\n"
+      },
+      {
+        "name": "GetCurrentInputState_ReflectsGamepadSimulation",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.GetCurrentInputState_ReflectsGamepadSimulation",
+        "status": "Passed",
+        "duration": 0.0039173,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.GetCurrentInputState_ReflectsGamepadSimulation\r\n"
+      },
+      {
+        "name": "GetCurrentInputState_ReflectsMouseSimulation",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.GetCurrentInputState_ReflectsMouseSimulation",
+        "status": "Passed",
+        "duration": 0.0017247,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.GetCurrentInputState_ReflectsMouseSimulation\r\n"
+      },
+      {
+        "name": "GetCurrentInputState_ReflectsTouchSimulation",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.GetCurrentInputState_ReflectsTouchSimulation",
+        "status": "Passed",
+        "duration": 0.0043742,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.GetCurrentInputState_ReflectsTouchSimulation\r\n"
+      },
+      {
+        "name": "GetCurrentInputState_ReflectsTypedKeyboardText",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.GetCurrentInputState_ReflectsTypedKeyboardText",
+        "status": "Passed",
+        "duration": 0.0021621,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.GetCurrentInputState_ReflectsTypedKeyboardText\r\n[unity-cli-bridge][InputSystemHandler] Simulating text input: \"Hi\" (Keyboard)\r\n"
+      },
+      {
+        "name": "GetCurrentInputState_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.GetCurrentInputState_Success",
+        "status": "Passed",
+        "duration": 0.0011668,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.GetCurrentInputState_Success\r\n"
+      },
+      {
+        "name": "SimulateGamepadInput_Button_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateGamepadInput_Button_Success",
+        "status": "Passed",
+        "duration": 0.0025296,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateGamepadInput_Button_Success\r\n"
+      },
+      {
+        "name": "SimulateGamepadInput_ButtonHoldSeconds_Releases",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateGamepadInput_ButtonHoldSeconds_Releases",
+        "status": "Passed",
+        "duration": 0.3020548,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateGamepadInput_ButtonHoldSeconds_Releases\r\n"
+      },
+      {
+        "name": "SimulateGamepadInput_DPad_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateGamepadInput_DPad_Success",
+        "status": "Passed",
+        "duration": 0.0032898,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateGamepadInput_DPad_Success\r\n"
+      },
+      {
+        "name": "SimulateGamepadInput_Stick_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateGamepadInput_Stick_Success",
+        "status": "Passed",
+        "duration": 0.0025331,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateGamepadInput_Stick_Success\r\n"
+      },
+      {
+        "name": "SimulateGamepadInput_Trigger_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateGamepadInput_Trigger_Success",
+        "status": "Passed",
+        "duration": 0.0023588,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateGamepadInput_Trigger_Success\r\n"
+      },
+      {
+        "name": "SimulateKeyboardInput_BatchedActions_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateKeyboardInput_BatchedActions_Success",
+        "status": "Passed",
+        "duration": 0.0034138,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateKeyboardInput_BatchedActions_Success\r\n[unity-cli-bridge][InputSystemHandler] Simulating key press: A (Keyboard)\r\n[unity-cli-bridge][InputSystemHandler] Simulating key press: D (Keyboard)\r\n[unity-cli-bridge][InputSystemHandler] Simulating key release: A (Keyboard)\r\n[unity-cli-bridge][InputSystemHandler] Simulating key release: D (Keyboard)\r\n"
+      },
+      {
+        "name": "SimulateKeyboardInput_InvalidAction_ReturnsError",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateKeyboardInput_InvalidAction_ReturnsError",
+        "status": "Passed",
+        "duration": 0.0012196,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateKeyboardInput_InvalidAction_ReturnsError\r\n"
+      },
+      {
+        "name": "SimulateKeyboardInput_KeyCombo_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateKeyboardInput_KeyCombo_Success",
+        "status": "Passed",
+        "duration": 0.0044083,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateKeyboardInput_KeyCombo_Success\r\n[unity-cli-bridge][InputSystemHandler] Simulating key combo: LeftCtrl+C (Keyboard)\r\n"
+      },
+      {
+        "name": "SimulateKeyboardInput_MissingKey_ReturnsError",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateKeyboardInput_MissingKey_ReturnsError",
+        "status": "Passed",
+        "duration": 0.0011731,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateKeyboardInput_MissingKey_ReturnsError\r\n"
+      },
+      {
+        "name": "SimulateKeyboardInput_PressKey_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateKeyboardInput_PressKey_Success",
+        "status": "Passed",
+        "duration": 0.0047343,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateKeyboardInput_PressKey_Success\r\n[unity-cli-bridge][InputSystemHandler] Simulating key press: A (Keyboard)\r\n"
+      },
+      {
+        "name": "SimulateKeyboardInput_ReleaseKey_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateKeyboardInput_ReleaseKey_Success",
+        "status": "Passed",
+        "duration": 0.0016773,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateKeyboardInput_ReleaseKey_Success\r\n[unity-cli-bridge][InputSystemHandler] Simulating key press: A (Keyboard)\r\n[unity-cli-bridge][InputSystemHandler] Simulating key release: A (Keyboard)\r\n"
+      },
+      {
+        "name": "SimulateKeyboardInput_TypeText_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateKeyboardInput_TypeText_Success",
+        "status": "Passed",
+        "duration": 0.0023998,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateKeyboardInput_TypeText_Success\r\n[unity-cli-bridge][InputSystemHandler] Simulating text input: \"Hello\" (Keyboard)\r\n"
+      },
+      {
+        "name": "SimulateMouseInput_ButtonAction_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateMouseInput_ButtonAction_Success",
+        "status": "Passed",
+        "duration": 0.0040264,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateMouseInput_ButtonAction_Success\r\n"
+      },
+      {
+        "name": "SimulateMouseInput_Click_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateMouseInput_Click_Success",
+        "status": "Passed",
+        "duration": 0.0066779,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateMouseInput_Click_Success\r\n"
+      },
+      {
+        "name": "SimulateMouseInput_Drag_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateMouseInput_Drag_Success",
+        "status": "Passed",
+        "duration": 0.0030248,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateMouseInput_Drag_Success\r\n"
+      },
+      {
+        "name": "SimulateMouseInput_InvalidButton_ReturnsError",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateMouseInput_InvalidButton_ReturnsError",
+        "status": "Passed",
+        "duration": 0.0011771,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateMouseInput_InvalidButton_ReturnsError\r\n"
+      },
+      {
+        "name": "SimulateMouseInput_Move_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateMouseInput_Move_Success",
+        "status": "Passed",
+        "duration": 0.0015229,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateMouseInput_Move_Success\r\n"
+      },
+      {
+        "name": "SimulateMouseInput_Scroll_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateMouseInput_Scroll_Success",
+        "status": "Passed",
+        "duration": 0.0021817,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateMouseInput_Scroll_Success\r\n"
+      },
+      {
+        "name": "SimulateTouchInput_Pinch_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateTouchInput_Pinch_Success",
+        "status": "Passed",
+        "duration": 0.003334,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateTouchInput_Pinch_Success\r\n"
+      },
+      {
+        "name": "SimulateTouchInput_Swipe_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateTouchInput_Swipe_Success",
+        "status": "Passed",
+        "duration": 0.0031497,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateTouchInput_Swipe_Success\r\n"
+      },
+      {
+        "name": "SimulateTouchInput_Tap_Success",
+        "fullName": "UnityCliBridge.Tests.InputSystemHandlerTests.SimulateTouchInput_Tap_Success",
+        "status": "Passed",
+        "duration": 0.0025422,
+        "message": null,
+        "stackTrace": null,
+        "output": "[unity-cli-bridge][TestExecutionHandler] Test started: UnityCliBridge.Tests.InputSystemHandlerTests.SimulateTouchInput_Tap_Success\r\n"
+      }
+    ]
+  },
+  "lastResultTimestampUtc": "2026-11-24T08:36:13.2824591Z",
+  "playModeOptionsPatched": false,
+  "prevEnterPlayModeOptionsEnabled": false,
+  "prevEnterPlayModeOptions": 0
+}

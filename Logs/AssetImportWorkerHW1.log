@@ -1,0 +1,1908 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.6/staging' branch; Version is '6000.6.4f1 (12bfff696524) revision 1228799'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-koyo" at "2026-11-24T08:23:12.5863842Z"
+OS: 'Windows 11  (10.0.26200) Professional' Language: 'ja' Physical Memory: 64990 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-11-24T08:23:12Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.6.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorkerHW1
+-projectPath
+C:/Users/koyo/Desktop/he/MemoryGame
+-logFile
+Logs/AssetImportWorkerHW1.log
+-srvPort
+55462
+-parentPid
+25464
+-analyticsCloudUserId
+15669620402550
+-analyticsLocalProjectId
+2a9fc801a807b624084cf36fa255c22a
+-editorAnalyticsEnabled
+1
+-cbmEditorLicense
+5a0b7994a1c6f08318f042be7f374edc01af786c
+-cbmMachineId
+BWqnS3g/0fH4Z3RbTQPDu0UiOsg=
+-noDiagnosticSwitchPersistentStore
+-job-worker-count
+9
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+-force-d3d12
+-name
+AssetImport
+Successfully changed project path to: C:/Users/koyo/Desktop/he/MemoryGame
+C:/Users/koyo/Desktop/he/MemoryGame
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=1"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [1840]  Target information:
+
+Player connection [1840]  * "[IP] 172.21.102.118 [Port] 0 [Flags] 2 [Guid] 3706787419 [EditorId] 3706787419 [Version] 1048832 [Id] WindowsEditor(7,4A-13) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [1840] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [1840] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 9
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+Initialising UDS system complete:
+  - System type: Client
+  - Resource namespace: 8bd2deeebdd33511955ed2e12b935ed6
+  - Shared memory size: 1073741824
+  - Command buffer id: 1052576
+  - Command buffer size: 8192
+  - Hashmap size: 4194304
+  - Service connected: true
+  - Service working directory: Library/DataStore/
+[Physics::Module] Selected backend (deferred post-plugins).
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Initialize engine version: 6000.6.4f1 (12bfff696524)
+[EntityIdStore] init: VM path (explicit commit), pageSize=4096, blockCount=1048576, entitiesPerBlock=256, slots reserved=4294967296 bytes
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.6.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/koyo/Desktop/he/MemoryGame/Assets
+Forcing GfxDevice: Direct3D 12
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+d3d12: failed to query info queue interface (0x80004002).
+Direct3D:
+    Version:         Direct3D 12 [level 12.2]
+    Renderer:        NVIDIA GeForce RTX 5070 (ID=0x2f04)
+    Vendor:          NVIDIA
+    VRAM:            11943 MB
+    App VRAM Budget: 10619 MB
+    Driver:          32.0.16.1742
+[Licensing::Client] Error: HandshakeResponse reported an error:
+	ResponseCode: 505
+	ResponseStatus: Unsupported protocol version '1.18.3'.
+[Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-koyo"
+[Licensing::IpcConnector] LicenseClient-koyo channel disconnected successfully.
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-koyo-6000.6.4" at "2026-11-24T08:23:13.1055239Z"
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 26308, path: "C:/Program Files/Unity/Hub/Editor/6000.6.4f1/Editor/Data/Resources/Licensing/Client/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.3+d7ffd15
+  Session Id:              51a74908213240e49cde4a8739f08801
+  Correlation Id:          bf0dc7b960fdf760f0db62954443b98d
+  External correlation Id: 7081963444406050332
+  Machine Id:              BWqnS3g/0fH4Z3RbTQPDu0UiOsg=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-koyo-6000.6.4" (connect: 0.00s, validation: 0.01s, handshake: 0.00s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-koyo-6000.6.4-notifications" at "2026-11-24T08:23:13.1197342Z"
+[Licensing::Module] Licensing Background thread has ended after 0.53s
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.6.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.6.4f1/Editor/Data/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = 'C:/Program Files/Unity/Hub/Editor/6000.6.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.6.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56800
+CodeReloadManager initialized
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.6.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001158 seconds.
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.345 seconds
+Domain Reload Profiling: 727ms
+	BeginReloadAssembly (96ms)
+	RebuildCommonClasses (4ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (49ms)
+	LoadAllAssembliesAndSetupDomain (220ms)
+		LoadAssemblies (93ms)
+		TypeCache.Refresh (149ms)
+			TypeCache.ScanAssembly (137ms)
+		AnalyzeDomain (1ms)
+	FinalizeReload (346ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (72ms)
+			ProcessInitializeOnLoadAttributes (74ms)
+			ProcessInitializeOnLoadMethodAttributes (136ms)
+Initializing Unity extensions:
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: E4-Z972-RPMT-KD6C-W6PJ-XXXX
+  Product: Unity Education
+  Type: ULF
+  Expiration: 2027-03-15T02:30:18Z
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[unity-cli-bridge] Initializing...
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:71)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 71)
+
+[unity-cli-bridge] Project Settings loaded: host=localhost, bind=127.0.0.1, port=6400
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:ApplyProjectSettings (System.Func`1<System.ValueTuple`2<string, int>>) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:118)
+UnityCliBridge.Core.UnityCliBridge:TryLoadProjectSettingsAndApply () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:88)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:77)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 118)
+
+[unity-cli-bridge] Skipping TCP listener startup in AssetImportWorker/batch/test process.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:ShouldSkipStartupForCurrentProcess () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:159)
+UnityCliBridge.Core.UnityCliBridge:StartTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:236)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:78)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 159)
+
+[unity-cli-bridge][TestExecutionHandler] Loaded persisted run state from C:\Users\koyo\Desktop\he\MemoryGame\.unity\tests\test-run-state.json: completed runId=98f94e34-6451-4aee-8c22-56a936ef1495
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string,string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:20)
+UnityCliBridge.Handlers.TestExecutionHandler:LoadRunState () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs:685)
+UnityCliBridge.Handlers.TestExecutionHandler:RestoreRunAfterReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs:63)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs Line: 685)
+
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.400 seconds
+Domain Reload Profiling: 886ms
+	BeginReloadAssembly (154ms)
+		DisableScriptedObjects (6ms)
+		CreateAndSetChildDomain (25ms)
+	RebuildCommonClasses (6ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (279ms)
+		LoadAssemblies (198ms)
+		TypeCache.Refresh (82ms)
+			TypeCache.ScanAssembly (69ms)
+		AnalyzeDomain (11ms)
+			BuildScriptInfoCaches (9ms)
+	FinalizeReload (401ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (66ms)
+			ProcessInitializeOnLoadAttributes (107ms)
+			ProcessInitializeOnLoadMethodAttributes (106ms)
+			AfterProcessingInitializeOnLoad (4ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+AcceleratorClientConnectionCallback - disconnected - :0
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1462 unused Assets / (0.8 MB). Loaded Objects now: 2150.
+Memory consumption went from 225.3 MB to 224.5 MB.
+Total: 4.204600 ms (FindLiveObjects: 0.333000 ms CreateObjectMapping: 0.041600 ms MarkObjects: 3.393800 ms  DeleteObjects: 0.311600 ms)
+
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+[unity-cli-bridge] Shutting down...
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1026)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 1026)
+
+[unity-cli-bridge] Status changed to: Disconnected
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:set_Status (UnityCliBridge.Models.BridgeStatus) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:49)
+UnityCliBridge.Core.UnityCliBridge:StopTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:403)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1027)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 49)
+
+[unity-cli-bridge] TCP listener stopped
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:StopTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:404)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1027)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 404)
+
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[unity-cli-bridge] Initializing...
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:71)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 71)
+
+[unity-cli-bridge] Project Settings loaded: host=localhost, bind=127.0.0.1, port=6400
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:ApplyProjectSettings (System.Func`1<System.ValueTuple`2<string, int>>) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:118)
+UnityCliBridge.Core.UnityCliBridge:TryLoadProjectSettingsAndApply () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:88)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:77)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 118)
+
+[unity-cli-bridge] Skipping TCP listener startup in AssetImportWorker/batch/test process.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:ShouldSkipStartupForCurrentProcess () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:159)
+UnityCliBridge.Core.UnityCliBridge:StartTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:236)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:78)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 159)
+
+[unity-cli-bridge][TestExecutionHandler] Loaded persisted run state from C:\Users\koyo\Desktop\he\MemoryGame\.unity\tests\test-run-state.json: completed runId=98f94e34-6451-4aee-8c22-56a936ef1495
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string,string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:20)
+UnityCliBridge.Handlers.TestExecutionHandler:LoadRunState () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs:685)
+UnityCliBridge.Handlers.TestExecutionHandler:RestoreRunAfterReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs:63)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs Line: 685)
+
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.507 seconds
+Domain Reload Profiling: 1039ms
+	BeginReloadAssembly (204ms)
+		DisableScriptedObjects (8ms)
+		CreateAndSetChildDomain (37ms)
+	RebuildCommonClasses (7ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (56ms)
+	LoadAllAssembliesAndSetupDomain (246ms)
+		LoadAssemblies (239ms)
+		TypeCache.Refresh (5ms)
+		AnalyzeDomain (3ms)
+	FinalizeReload (508ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (87ms)
+			ProcessInitializeOnLoadAttributes (119ms)
+			ProcessInitializeOnLoadMethodAttributes (130ms)
+			AfterProcessingInitializeOnLoad (7ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1460 unused Assets / (236.0 KB). Loaded Objects now: 2150.
+Memory consumption went from 224.9 MB to 224.6 MB.
+Total: 4.974400 ms (FindLiveObjects: 0.367900 ms CreateObjectMapping: 0.149600 ms MarkObjects: 4.091000 ms  DeleteObjects: 0.221800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1459 unused Assets / (269.9 KB). Loaded Objects now: 2150.
+Memory consumption went from 225.2 MB to 224.9 MB.
+Total: 4.523600 ms (FindLiveObjects: 0.414500 ms CreateObjectMapping: 0.043400 ms MarkObjects: 3.684100 ms  DeleteObjects: 0.248500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+[unity-cli-bridge] Shutting down...
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1026)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 1026)
+
+[unity-cli-bridge] Status changed to: Disconnected
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:set_Status (UnityCliBridge.Models.BridgeStatus) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:49)
+UnityCliBridge.Core.UnityCliBridge:StopTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:403)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1027)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 49)
+
+[unity-cli-bridge] TCP listener stopped
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:StopTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:404)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1027)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 404)
+
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[unity-cli-bridge] Initializing...
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:71)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 71)
+
+[unity-cli-bridge] Project Settings loaded: host=localhost, bind=127.0.0.1, port=6400
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:ApplyProjectSettings (System.Func`1<System.ValueTuple`2<string, int>>) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:118)
+UnityCliBridge.Core.UnityCliBridge:TryLoadProjectSettingsAndApply () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:88)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:77)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 118)
+
+[unity-cli-bridge] Skipping TCP listener startup in AssetImportWorker/batch/test process.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:ShouldSkipStartupForCurrentProcess () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:159)
+UnityCliBridge.Core.UnityCliBridge:StartTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:236)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:78)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 159)
+
+[unity-cli-bridge][TestExecutionHandler] Loaded persisted run state from C:\Users\koyo\Desktop\he\MemoryGame\.unity\tests\test-run-state.json: completed runId=98f94e34-6451-4aee-8c22-56a936ef1495
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string,string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:20)
+UnityCliBridge.Handlers.TestExecutionHandler:LoadRunState () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs:685)
+UnityCliBridge.Handlers.TestExecutionHandler:RestoreRunAfterReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs:63)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs Line: 685)
+
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.445 seconds
+Domain Reload Profiling: 1140ms
+	BeginReloadAssembly (224ms)
+		DisableScriptedObjects (8ms)
+		CreateAndSetChildDomain (36ms)
+	RebuildCommonClasses (9ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (63ms)
+	LoadAllAssembliesAndSetupDomain (379ms)
+		LoadAssemblies (271ms)
+		TypeCache.Refresh (9ms)
+		AnalyzeDomain (99ms)
+			BuildScriptInfoCaches (96ms)
+	FinalizeReload (446ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (86ms)
+			ProcessInitializeOnLoadAttributes (86ms)
+			ProcessInitializeOnLoadMethodAttributes (98ms)
+			AfterProcessingInitializeOnLoad (3ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1460 unused Assets / (394.2 KB). Loaded Objects now: 2150.
+Memory consumption went from 227.4 MB to 227.0 MB.
+Total: 3.625400 ms (FindLiveObjects: 0.309000 ms CreateObjectMapping: 0.040300 ms MarkObjects: 2.937000 ms  DeleteObjects: 0.217000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+[unity-cli-bridge] Shutting down...
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1026)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 1026)
+
+[unity-cli-bridge] Status changed to: Disconnected
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:set_Status (UnityCliBridge.Models.BridgeStatus) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:49)
+UnityCliBridge.Core.UnityCliBridge:StopTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:403)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1027)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 49)
+
+[unity-cli-bridge] TCP listener stopped
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:StopTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:404)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1027)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 404)
+
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[unity-cli-bridge] Initializing...
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:71)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 71)
+
+[unity-cli-bridge] Project Settings loaded: host=localhost, bind=127.0.0.1, port=6400
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:ApplyProjectSettings (System.Func`1<System.ValueTuple`2<string, int>>) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:118)
+UnityCliBridge.Core.UnityCliBridge:TryLoadProjectSettingsAndApply () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:88)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:77)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 118)
+
+[unity-cli-bridge] Skipping TCP listener startup in AssetImportWorker/batch/test process.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:ShouldSkipStartupForCurrentProcess () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:159)
+UnityCliBridge.Core.UnityCliBridge:StartTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:236)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:78)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 159)
+
+[unity-cli-bridge][TestExecutionHandler] Loaded persisted run state from C:\Users\koyo\Desktop\he\MemoryGame\.unity\tests\test-run-state.json: completed runId=98f94e34-6451-4aee-8c22-56a936ef1495
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string,string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:20)
+UnityCliBridge.Handlers.TestExecutionHandler:LoadRunState () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs:685)
+UnityCliBridge.Handlers.TestExecutionHandler:RestoreRunAfterReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs:63)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs Line: 685)
+
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.405 seconds
+Domain Reload Profiling: 842ms
+	BeginReloadAssembly (174ms)
+		DisableScriptedObjects (11ms)
+		CreateAndSetChildDomain (29ms)
+	RebuildCommonClasses (7ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (47ms)
+	LoadAllAssembliesAndSetupDomain (196ms)
+		LoadAssemblies (196ms)
+		TypeCache.Refresh (6ms)
+		AnalyzeDomain (2ms)
+	FinalizeReload (406ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (75ms)
+			ProcessInitializeOnLoadAttributes (91ms)
+			ProcessInitializeOnLoadMethodAttributes (104ms)
+			AfterProcessingInitializeOnLoad (4ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1460 unused Assets / (414.6 KB). Loaded Objects now: 2150.
+Memory consumption went from 228.2 MB to 227.8 MB.
+Total: 3.675300 ms (FindLiveObjects: 0.338800 ms CreateObjectMapping: 0.047900 ms MarkObjects: 2.940000 ms  DeleteObjects: 0.216400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1459 unused Assets / (278.4 KB). Loaded Objects now: 2150.
+Memory consumption went from 228.5 MB to 228.2 MB.
+Total: 6.524900 ms (FindLiveObjects: 0.424300 ms CreateObjectMapping: 0.063200 ms MarkObjects: 5.435800 ms  DeleteObjects: 0.453400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+[unity-cli-bridge] Shutting down...
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1026)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 1026)
+
+[unity-cli-bridge] Status changed to: Disconnected
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:set_Status (UnityCliBridge.Models.BridgeStatus) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:49)
+UnityCliBridge.Core.UnityCliBridge:StopTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:403)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1027)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 49)
+
+[unity-cli-bridge] TCP listener stopped
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:StopTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:404)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1027)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 404)
+
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[unity-cli-bridge] Initializing...
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:71)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 71)
+
+[unity-cli-bridge] Project Settings loaded: host=localhost, bind=127.0.0.1, port=6400
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:ApplyProjectSettings (System.Func`1<System.ValueTuple`2<string, int>>) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:118)
+UnityCliBridge.Core.UnityCliBridge:TryLoadProjectSettingsAndApply () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:88)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:77)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 118)
+
+[unity-cli-bridge] Skipping TCP listener startup in AssetImportWorker/batch/test process.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:ShouldSkipStartupForCurrentProcess () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:159)
+UnityCliBridge.Core.UnityCliBridge:StartTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:236)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:78)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 159)
+
+[unity-cli-bridge][TestExecutionHandler] Loaded persisted run state from C:\Users\koyo\Desktop\he\MemoryGame\.unity\tests\test-run-state.json: completed runId=98f94e34-6451-4aee-8c22-56a936ef1495
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string,string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:20)
+UnityCliBridge.Handlers.TestExecutionHandler:LoadRunState () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs:685)
+UnityCliBridge.Handlers.TestExecutionHandler:RestoreRunAfterReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs:63)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs Line: 685)
+
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.401 seconds
+Domain Reload Profiling: 907ms
+	BeginReloadAssembly (171ms)
+		DisableScriptedObjects (7ms)
+		CreateAndSetChildDomain (27ms)
+	RebuildCommonClasses (6ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (46ms)
+	LoadAllAssembliesAndSetupDomain (270ms)
+		LoadAssemblies (198ms)
+		TypeCache.Refresh (8ms)
+		AnalyzeDomain (70ms)
+			BuildScriptInfoCaches (68ms)
+	FinalizeReload (401ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (71ms)
+			ProcessInitializeOnLoadAttributes (90ms)
+			ProcessInitializeOnLoadMethodAttributes (107ms)
+			AfterProcessingInitializeOnLoad (4ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1460 unused Assets / (380.8 KB). Loaded Objects now: 2150.
+Memory consumption went from 231.5 MB to 231.1 MB.
+Total: 3.608500 ms (FindLiveObjects: 0.309300 ms CreateObjectMapping: 0.053800 ms MarkObjects: 2.903000 ms  DeleteObjects: 0.215100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+[unity-cli-bridge] Shutting down...
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1026)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 1026)
+
+[unity-cli-bridge] Status changed to: Disconnected
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:set_Status (UnityCliBridge.Models.BridgeStatus) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:49)
+UnityCliBridge.Core.UnityCliBridge:StopTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:403)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1027)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 49)
+
+[unity-cli-bridge] TCP listener stopped
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:StopTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:404)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1027)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 404)
+
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[unity-cli-bridge] Initializing...
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:71)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 71)
+
+[unity-cli-bridge] Project Settings loaded: host=localhost, bind=127.0.0.1, port=6400
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:ApplyProjectSettings (System.Func`1<System.ValueTuple`2<string, int>>) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:118)
+UnityCliBridge.Core.UnityCliBridge:TryLoadProjectSettingsAndApply () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:88)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:77)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 118)
+
+[unity-cli-bridge] Skipping TCP listener startup in AssetImportWorker/batch/test process.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:ShouldSkipStartupForCurrentProcess () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:159)
+UnityCliBridge.Core.UnityCliBridge:StartTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:236)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:78)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 159)
+
+[unity-cli-bridge][TestExecutionHandler] Loaded persisted run state from C:\Users\koyo\Desktop\he\MemoryGame\.unity\tests\test-run-state.json: completed runId=fb7e4251-ed29-462f-9174-071ec65c9a26
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string,string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:20)
+UnityCliBridge.Handlers.TestExecutionHandler:LoadRunState () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs:685)
+UnityCliBridge.Handlers.TestExecutionHandler:RestoreRunAfterReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs:63)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs Line: 685)
+
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.402 seconds
+Domain Reload Profiling: 832ms
+	BeginReloadAssembly (170ms)
+		DisableScriptedObjects (6ms)
+		CreateAndSetChildDomain (30ms)
+	RebuildCommonClasses (7ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (41ms)
+	LoadAllAssembliesAndSetupDomain (199ms)
+		LoadAssemblies (196ms)
+		TypeCache.Refresh (6ms)
+		AnalyzeDomain (2ms)
+	FinalizeReload (403ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (72ms)
+			ProcessInitializeOnLoadAttributes (94ms)
+			ProcessInitializeOnLoadMethodAttributes (103ms)
+			AfterProcessingInitializeOnLoad (4ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1460 unused Assets / (308.2 KB). Loaded Objects now: 2150.
+Memory consumption went from 232.3 MB to 232.0 MB.
+Total: 4.791800 ms (FindLiveObjects: 0.331400 ms CreateObjectMapping: 0.040900 ms MarkObjects: 3.968300 ms  DeleteObjects: 0.311500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+[unity-cli-bridge] Shutting down...
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1026)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 1026)
+
+[unity-cli-bridge] Status changed to: Disconnected
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:set_Status (UnityCliBridge.Models.BridgeStatus) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:49)
+UnityCliBridge.Core.UnityCliBridge:StopTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:403)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1027)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 49)
+
+[unity-cli-bridge] TCP listener stopped
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:StopTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:404)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1027)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 404)
+
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[unity-cli-bridge] Initializing...
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:71)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 71)
+
+[unity-cli-bridge] Project Settings loaded: host=localhost, bind=127.0.0.1, port=6400
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:ApplyProjectSettings (System.Func`1<System.ValueTuple`2<string, int>>) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:118)
+UnityCliBridge.Core.UnityCliBridge:TryLoadProjectSettingsAndApply () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:88)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:77)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 118)
+
+[unity-cli-bridge] Skipping TCP listener startup in AssetImportWorker/batch/test process.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:ShouldSkipStartupForCurrentProcess () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:159)
+UnityCliBridge.Core.UnityCliBridge:StartTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:236)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:78)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 159)
+
+[unity-cli-bridge][TestExecutionHandler] Loaded persisted run state from C:\Users\koyo\Desktop\he\MemoryGame\.unity\tests\test-run-state.json: completed runId=fb7e4251-ed29-462f-9174-071ec65c9a26
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string,string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:20)
+UnityCliBridge.Handlers.TestExecutionHandler:LoadRunState () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs:685)
+UnityCliBridge.Handlers.TestExecutionHandler:RestoreRunAfterReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs:63)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs Line: 685)
+
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.406 seconds
+Domain Reload Profiling: 846ms
+	BeginReloadAssembly (183ms)
+		DisableScriptedObjects (21ms)
+		CreateAndSetChildDomain (27ms)
+	RebuildCommonClasses (7ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (44ms)
+	LoadAllAssembliesAndSetupDomain (193ms)
+		LoadAssemblies (191ms)
+		TypeCache.Refresh (6ms)
+		AnalyzeDomain (3ms)
+	FinalizeReload (406ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (74ms)
+			ProcessInitializeOnLoadAttributes (93ms)
+			ProcessInitializeOnLoadMethodAttributes (107ms)
+			AfterProcessingInitializeOnLoad (5ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1460 unused Assets / (317.0 KB). Loaded Objects now: 2150.
+Memory consumption went from 232.5 MB to 232.2 MB.
+Total: 4.222200 ms (FindLiveObjects: 0.359700 ms CreateObjectMapping: 0.102300 ms MarkObjects: 3.335400 ms  DeleteObjects: 0.266600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+[unity-cli-bridge] Shutting down...
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1026)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 1026)
+
+[unity-cli-bridge] Status changed to: Disconnected
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:set_Status (UnityCliBridge.Models.BridgeStatus) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:49)
+UnityCliBridge.Core.UnityCliBridge:StopTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:403)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1027)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 49)
+
+[unity-cli-bridge] TCP listener stopped
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:StopTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:404)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1027)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 404)
+
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[unity-cli-bridge] Initializing...
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:71)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 71)
+
+[unity-cli-bridge] Project Settings loaded: host=localhost, bind=127.0.0.1, port=6400
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:ApplyProjectSettings (System.Func`1<System.ValueTuple`2<string, int>>) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:118)
+UnityCliBridge.Core.UnityCliBridge:TryLoadProjectSettingsAndApply () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:88)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:77)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 118)
+
+[unity-cli-bridge] Skipping TCP listener startup in AssetImportWorker/batch/test process.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:ShouldSkipStartupForCurrentProcess () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:159)
+UnityCliBridge.Core.UnityCliBridge:StartTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:236)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:78)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 159)
+
+[unity-cli-bridge][TestExecutionHandler] Loaded persisted run state from C:\Users\koyo\Desktop\he\MemoryGame\.unity\tests\test-run-state.json: completed runId=fb7e4251-ed29-462f-9174-071ec65c9a26
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string,string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:20)
+UnityCliBridge.Handlers.TestExecutionHandler:LoadRunState () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs:685)
+UnityCliBridge.Handlers.TestExecutionHandler:RestoreRunAfterReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs:63)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs Line: 685)
+
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.492 seconds
+Domain Reload Profiling: 937ms
+	BeginReloadAssembly (179ms)
+		DisableScriptedObjects (7ms)
+		CreateAndSetChildDomain (28ms)
+	RebuildCommonClasses (8ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (42ms)
+	LoadAllAssembliesAndSetupDomain (202ms)
+		LoadAssemblies (206ms)
+		TypeCache.Refresh (6ms)
+		AnalyzeDomain (3ms)
+	FinalizeReload (493ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (94ms)
+			ProcessInitializeOnLoadAttributes (118ms)
+			ProcessInitializeOnLoadMethodAttributes (132ms)
+			AfterProcessingInitializeOnLoad (5ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1460 unused Assets / (403.1 KB). Loaded Objects now: 2150.
+Memory consumption went from 232.6 MB to 232.2 MB.
+Total: 4.346700 ms (FindLiveObjects: 0.380500 ms CreateObjectMapping: 0.045400 ms MarkObjects: 3.494700 ms  DeleteObjects: 0.293400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1459 unused Assets / (373.9 KB). Loaded Objects now: 2150.
+Memory consumption went from 233.0 MB to 232.6 MB.
+Total: 5.545100 ms (FindLiveObjects: 0.344400 ms CreateObjectMapping: 0.041500 ms MarkObjects: 4.785800 ms  DeleteObjects: 0.236900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1459 unused Assets / (382.7 KB). Loaded Objects now: 2150.
+Memory consumption went from 233.1 MB to 232.7 MB.
+Total: 3.744000 ms (FindLiveObjects: 0.343800 ms CreateObjectMapping: 0.037500 ms MarkObjects: 2.993000 ms  DeleteObjects: 0.240200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+[unity-cli-bridge] Shutting down...
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1026)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 1026)
+
+[unity-cli-bridge] Status changed to: Disconnected
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:set_Status (UnityCliBridge.Models.BridgeStatus) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:49)
+UnityCliBridge.Core.UnityCliBridge:StopTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:403)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1027)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 49)
+
+[unity-cli-bridge] TCP listener stopped
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:StopTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:404)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1027)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 404)
+
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[unity-cli-bridge] Initializing...
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:71)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 71)
+
+[unity-cli-bridge] Project Settings loaded: host=localhost, bind=127.0.0.1, port=6400
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:ApplyProjectSettings (System.Func`1<System.ValueTuple`2<string, int>>) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:118)
+UnityCliBridge.Core.UnityCliBridge:TryLoadProjectSettingsAndApply () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:88)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:77)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 118)
+
+[unity-cli-bridge] Skipping TCP listener startup in AssetImportWorker/batch/test process.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:ShouldSkipStartupForCurrentProcess () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:159)
+UnityCliBridge.Core.UnityCliBridge:StartTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:236)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:78)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 159)
+
+[unity-cli-bridge][TestExecutionHandler] Loaded persisted run state from C:\Users\koyo\Desktop\he\MemoryGame\.unity\tests\test-run-state.json: completed runId=fb7e4251-ed29-462f-9174-071ec65c9a26
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string,string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:20)
+UnityCliBridge.Handlers.TestExecutionHandler:LoadRunState () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs:685)
+UnityCliBridge.Handlers.TestExecutionHandler:RestoreRunAfterReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs:63)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs Line: 685)
+
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.451 seconds
+Domain Reload Profiling: 961ms
+	BeginReloadAssembly (171ms)
+		DisableScriptedObjects (6ms)
+		CreateAndSetChildDomain (28ms)
+	RebuildCommonClasses (7ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (41ms)
+	LoadAllAssembliesAndSetupDomain (278ms)
+		LoadAssemblies (205ms)
+		TypeCache.Refresh (8ms)
+		AnalyzeDomain (73ms)
+			BuildScriptInfoCaches (70ms)
+	FinalizeReload (451ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (78ms)
+			ProcessInitializeOnLoadAttributes (117ms)
+			ProcessInitializeOnLoadMethodAttributes (112ms)
+			AfterProcessingInitializeOnLoad (4ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1460 unused Assets / (97.4 KB). Loaded Objects now: 2150.
+Memory consumption went from 236.4 MB to 236.3 MB.
+Total: 3.854000 ms (FindLiveObjects: 0.349100 ms CreateObjectMapping: 0.041400 ms MarkObjects: 3.107000 ms  DeleteObjects: 0.228700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+[unity-cli-bridge] Shutting down...
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1026)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 1026)
+
+[unity-cli-bridge] Status changed to: Disconnected
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:set_Status (UnityCliBridge.Models.BridgeStatus) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:49)
+UnityCliBridge.Core.UnityCliBridge:StopTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:403)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1027)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 49)
+
+[unity-cli-bridge] TCP listener stopped
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:StopTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:404)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1027)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 404)
+
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[unity-cli-bridge] Initializing...
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:71)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 71)
+
+[unity-cli-bridge] Project Settings loaded: host=localhost, bind=127.0.0.1, port=6400
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:ApplyProjectSettings (System.Func`1<System.ValueTuple`2<string, int>>) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:118)
+UnityCliBridge.Core.UnityCliBridge:TryLoadProjectSettingsAndApply () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:88)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:77)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 118)
+
+[unity-cli-bridge] Skipping TCP listener startup in AssetImportWorker/batch/test process.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:ShouldSkipStartupForCurrentProcess () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:159)
+UnityCliBridge.Core.UnityCliBridge:StartTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:236)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:78)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 159)
+
+[unity-cli-bridge][TestExecutionHandler] Loaded persisted run state from C:\Users\koyo\Desktop\he\MemoryGame\.unity\tests\test-run-state.json: completed runId=fb7e4251-ed29-462f-9174-071ec65c9a26
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string,string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:20)
+UnityCliBridge.Handlers.TestExecutionHandler:LoadRunState () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs:685)
+UnityCliBridge.Handlers.TestExecutionHandler:RestoreRunAfterReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs:63)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs Line: 685)
+
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.408 seconds
+Domain Reload Profiling: 844ms
+	BeginReloadAssembly (172ms)
+		DisableScriptedObjects (6ms)
+		CreateAndSetChildDomain (30ms)
+	RebuildCommonClasses (7ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (44ms)
+	LoadAllAssembliesAndSetupDomain (199ms)
+		LoadAssemblies (198ms)
+		TypeCache.Refresh (7ms)
+		AnalyzeDomain (2ms)
+	FinalizeReload (409ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (73ms)
+			ProcessInitializeOnLoadAttributes (94ms)
+			ProcessInitializeOnLoadMethodAttributes (109ms)
+			AfterProcessingInitializeOnLoad (4ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1460 unused Assets / (376.9 KB). Loaded Objects now: 2150.
+Memory consumption went from 237.2 MB to 236.8 MB.
+Total: 3.729000 ms (FindLiveObjects: 0.346200 ms CreateObjectMapping: 0.040700 ms MarkObjects: 2.975300 ms  DeleteObjects: 0.227800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+[unity-cli-bridge] Shutting down...
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1026)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 1026)
+
+[unity-cli-bridge] Status changed to: Disconnected
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:set_Status (UnityCliBridge.Models.BridgeStatus) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:49)
+UnityCliBridge.Core.UnityCliBridge:StopTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:403)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1027)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 49)
+
+[unity-cli-bridge] TCP listener stopped
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:StopTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:404)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1027)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 404)
+
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[unity-cli-bridge] Initializing...
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:71)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 71)
+
+[unity-cli-bridge] Project Settings loaded: host=localhost, bind=127.0.0.1, port=6400
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:ApplyProjectSettings (System.Func`1<System.ValueTuple`2<string, int>>) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:118)
+UnityCliBridge.Core.UnityCliBridge:TryLoadProjectSettingsAndApply () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:88)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:77)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 118)
+
+[unity-cli-bridge] Skipping TCP listener startup in AssetImportWorker/batch/test process.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:ShouldSkipStartupForCurrentProcess () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:159)
+UnityCliBridge.Core.UnityCliBridge:StartTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:236)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:78)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 159)
+
+[unity-cli-bridge][TestExecutionHandler] Loaded persisted run state from C:\Users\koyo\Desktop\he\MemoryGame\.unity\tests\test-run-state.json: completed runId=fb7e4251-ed29-462f-9174-071ec65c9a26
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string,string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:20)
+UnityCliBridge.Handlers.TestExecutionHandler:LoadRunState () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs:685)
+UnityCliBridge.Handlers.TestExecutionHandler:RestoreRunAfterReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs:63)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs Line: 685)
+
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.475 seconds
+Domain Reload Profiling: 909ms
+	BeginReloadAssembly (170ms)
+		DisableScriptedObjects (6ms)
+		CreateAndSetChildDomain (29ms)
+	RebuildCommonClasses (7ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (44ms)
+	LoadAllAssembliesAndSetupDomain (198ms)
+		LoadAssemblies (193ms)
+		TypeCache.Refresh (7ms)
+		AnalyzeDomain (3ms)
+	FinalizeReload (476ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (92ms)
+			ProcessInitializeOnLoadAttributes (113ms)
+			ProcessInitializeOnLoadMethodAttributes (129ms)
+			AfterProcessingInitializeOnLoad (5ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1460 unused Assets / (503.1 KB). Loaded Objects now: 2150.
+Memory consumption went from 237.3 MB to 236.8 MB.
+Total: 4.541300 ms (FindLiveObjects: 0.386000 ms CreateObjectMapping: 0.085600 ms MarkObjects: 3.605400 ms  DeleteObjects: 0.330100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+[unity-cli-bridge] Shutting down...
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1026)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 1026)
+
+[unity-cli-bridge] Status changed to: Disconnected
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:set_Status (UnityCliBridge.Models.BridgeStatus) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:49)
+UnityCliBridge.Core.UnityCliBridge:StopTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:403)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1027)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 49)
+
+[unity-cli-bridge] TCP listener stopped
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:StopTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:404)
+UnityCliBridge.Core.UnityCliBridge:Shutdown () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1027)
+UnityCliBridge.Core.UnityCliBridge:OnBeforeAssemblyReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:1036)
+UnityEditor.AssemblyReloadEvents:OnBeforeAssemblyReload ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 404)
+
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[unity-cli-bridge] Initializing...
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:71)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 71)
+
+[unity-cli-bridge] Project Settings loaded: host=localhost, bind=127.0.0.1, port=6400
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:ApplyProjectSettings (System.Func`1<System.ValueTuple`2<string, int>>) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:118)
+UnityCliBridge.Core.UnityCliBridge:TryLoadProjectSettingsAndApply () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:88)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:77)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 118)
+
+[unity-cli-bridge] Skipping TCP listener startup in AssetImportWorker/batch/test process.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:15)
+UnityCliBridge.Core.UnityCliBridge:ShouldSkipStartupForCurrentProcess () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:159)
+UnityCliBridge.Core.UnityCliBridge:StartTcpListener () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:236)
+UnityCliBridge.Core.UnityCliBridge:.cctor () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs:78)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.ReadOnlySpan`1<intptr>)
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Core/UnityCliBridgeHost.cs Line: 159)
+
+[unity-cli-bridge][TestExecutionHandler] Loaded persisted run state from C:\Users\koyo\Desktop\he\MemoryGame\.unity\tests\test-run-state.json: completed runId=fb7e4251-ed29-462f-9174-071ec65c9a26
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityCliBridge.Logging.BridgeLogger:Log (string,string) (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Logging/BridgeLogger.cs:20)
+UnityCliBridge.Handlers.TestExecutionHandler:LoadRunState () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs:685)
+UnityCliBridge.Handlers.TestExecutionHandler:RestoreRunAfterReload () (at ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs:63)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: ./Library/PackageCache/com.akiojin.unity-cli-bridge@d530a3026645/Editor/Handlers/TestExecutionHandler.cs Line: 685)
+
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.461 seconds
+Domain Reload Profiling: 885ms
+	BeginReloadAssembly (163ms)
+		DisableScriptedObjects (6ms)
+		CreateAndSetChildDomain (26ms)
+	RebuildCommonClasses (7ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (44ms)
+	LoadAllAssembliesAndSetupDomain (196ms)
+		LoadAssemblies (193ms)
+		TypeCache.Refresh (6ms)
+		AnalyzeDomain (3ms)
+	FinalizeReload (462ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (93ms)
+			ProcessInitializeOnLoadAttributes (97ms)
+			ProcessInitializeOnLoadMethodAttributes (132ms)
+			AfterProcessingInitializeOnLoad (5ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1460 unused Assets / (379.8 KB). Loaded Objects now: 2150.
+Memory consumption went from 237.5 MB to 237.1 MB.
+Total: 4.418600 ms (FindLiveObjects: 0.427100 ms CreateObjectMapping: 0.041600 ms MarkObjects: 3.513500 ms  DeleteObjects: 0.271500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+Editor requested this worker to shutdown with reason: Editor is closing down
+AcceleratorClientConnectionCallback - disconnected - :0
+AssetImportWorker is now disconnected from the server
+Process exiting
+[ExitDontLaunchBugReporter] Exiting without the bug reporter. Application will exit with return code 0
